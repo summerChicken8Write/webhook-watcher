@@ -1,0 +1,12 @@
+{
+  "name": "webhook-watcher",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/summerChicken8Write/webhook-watcher.git",
+  "author": "不死不朽 <1933292552@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
